@@ -1,2 +1,2 @@
 # Deep_Learning
-Deep learning project from building environment to image classification project
+Deep learning project for image classification project in Google Collab
